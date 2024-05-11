@@ -1,0 +1,13 @@
+{
+   "compilerOptions": {
+   "moduleResolution": "NodeNext",
+   "outDir": "./dist",
+     "module": "NodeNext",
+     "target": "es5",
+     "strict": true
+   },
+   "include": [
+     "./**/*"
+   ]
+ }
+ 

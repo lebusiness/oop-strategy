@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.SlowlyQuackBehavior = exports.RarelyQuackBehavior = exports.LoudlyQuackBehavior = exports.DisableQuackBehavior = void 0;
+var DisableQuackBehavior_1 = require("./DisableQuackBehavior");
+Object.defineProperty(exports, "DisableQuackBehavior", { enumerable: true, get: function () { return DisableQuackBehavior_1.DisableQuackBehavior; } });
+var LoudlyQuackBehavior_1 = require("./LoudlyQuackBehavior");
+Object.defineProperty(exports, "LoudlyQuackBehavior", { enumerable: true, get: function () { return LoudlyQuackBehavior_1.LoudlyQuackBehavior; } });
+var RarelyQuackBehavior_1 = require("./RarelyQuackBehavior");
+Object.defineProperty(exports, "RarelyQuackBehavior", { enumerable: true, get: function () { return RarelyQuackBehavior_1.RarelyQuackBehavior; } });
+var SlowlyQuackBehavior_1 = require("./SlowlyQuackBehavior");
+Object.defineProperty(exports, "SlowlyQuackBehavior", { enumerable: true, get: function () { return SlowlyQuackBehavior_1.SlowlyQuackBehavior; } });
